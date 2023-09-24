@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL(https://www.frontendmentor.io/solutions/workit-landing-page-solution-VIUVSo8g8V)
+- Live Site URL: [Live Site](https://clotho-ex.github.io/Workit-Landing-Page-Project/)
 
 ## My process
 
@@ -39,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to add curves to seperate certain sections of the website. It creates a beautiful transition and looks cool.
+I learned how to add curves to separate particular sections of the website. It creates a beautiful transition and looks excellent.
 
 ```css
   .proud-of-this-CSS {
