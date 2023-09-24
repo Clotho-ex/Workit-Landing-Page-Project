@@ -1,6 +1,6 @@
-# Frontend Mentor - Workit landing page solution
+# Frontend Mentor - Workit Landing Page Solution
 
-## Table of contents
+## Table of Contents
 
 - [Frontend Mentor - Workit landing page solution](#frontend-mentor---workit-landing-page-solution)
   - [Table of contents](#table-of-contents)
@@ -15,7 +15,7 @@
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 Users should be able to:
 
