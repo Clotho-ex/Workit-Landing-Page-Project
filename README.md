@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL(https://www.frontendmentor.io/solutions/workit-landing-page-solution-VIUVSo8g8V)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/workit-landing-page-solution-VIUVSo8g8V)
 - Live Site URL: [Live Site](https://clotho-ex.github.io/Workit-Landing-Page-Project/)
 
 ## My process
